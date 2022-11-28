@@ -1,0 +1,12 @@
+# .env
+.vscode/
+__pycache__/
+.env
+env
+.idea/
+profile_pics/
+media/
+env/
+setup.cfg
+.DS_Store
+db.sqlite3
